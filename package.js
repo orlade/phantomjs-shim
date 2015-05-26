@@ -1,6 +1,6 @@
 Package.describe({
   name: 'oliver:phantomjs-shim',
-  version: '0.0.1',
+  version: '0.0.2',
   summary: 'Adds shims for core functions missing from PhantomJS 1.x for use in Meteor apps.',
   git: 'https://github.com/orlade/phantomjs-shim.git',
 });
